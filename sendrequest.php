@@ -7,8 +7,8 @@
 </head>
 <body>
     <form action="receiverequest.php" method="GET">
-        <input type="text" name="name">
-        <input type="text" name="passwords">
+        <input type="text" name="paragrafo">
+        <input type="text" name="wordx">
         <button type="submit">INVIA</button>
     </form>
     
